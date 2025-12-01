@@ -12,8 +12,8 @@
     - streamlit: interface web
 
 # . .  grupo . .
--> Raquel
--> Liriel
+-> Raquel: Backend - finalizada
+-> Liriel: frontend - iniciando
 
 
 # . .  Turma . .
