@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.git/
+.gitignore
+*.pdf
+temp_*.pdf
+venv/
+env/
+.vscode/
+desen_testes/
